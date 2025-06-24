@@ -3,7 +3,7 @@
 ## Fork, clone and run
 
 ```bash
-git clone https://github.com/<user>/<fork>.git my-project
+git clone --recursive https://github.com/<user>/<fork>.git my-project
 cd my-project
 git submodule update --remote --merge
 mkdir -p deps/imklib/build
