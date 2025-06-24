@@ -1,0 +1,3 @@
+[submodule "deps/imklib"]
+	path = deps/imklib
+	url = https://github.com/ImtiazKabir/ImKLib.git
